@@ -1,10 +1,10 @@
-	# FilmTest
+	FilmTest
 	
-	## Swift 5.0; iOS 12.4; Xcode 10.3
+	Swift 5.0; iOS 12.4; Xcode 10.3
 
-	## Description
+	Description
 	
-	This project is viewer of movies from site "The Movie DataBase (TMDb)" open API [https://www.themoviedb.org].
+	This project is viewer of movies from site "The Movie DataBase (TMDb)" open API (https://www.themoviedb.org).
 	It has developed for iOS 12.4, for iPhone devices and portrait orientation.
 	It has written on Swift 5.0 language (Xcode 10.3) with implementation MVVM (Model ViewModel View) architecture. For data binding it’s using reactive programming paradigm, which uses ReactiveKit and Bond third party libraries. For local database organization it has selected RealmSwift framework. It has provided easy and safely storing data, and has widely using in modern applications. For working with downloading information of movies from server it has used Alamofire 5.0, and also SDWebImage framework for caching images in phone memory. Also in this project there is an implementing Coordinator pattern for navigation between view controllers, customization of tab bar, favorite movies gallery, feed movie cells, providing a technique for separating functionality via protocols, generics & extensions. It has implemented a pagination end error handling to interact with server.The views have divided on separate storyboards and using auto layouts for all screen sizes.
 	This application has five screens - most viewed movies (central custom button), search movies, favorites movies, actors feed and settings. It can select on bottom tab bar item.
