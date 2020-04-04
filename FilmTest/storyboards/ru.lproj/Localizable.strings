@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  FilmTest
+
+  Created by Kirill Mazaev on 01.07.2019.
+  Copyright © 2019 mazaev. All rights reserved.
+*/
+
+// Russian - Русский
+
+// A
+"Actors" = "Актеры";
+"API REQUEST ERROR" = "ОШИБКА СЕТЕВОГО ЗАПРОСА";
+
+// F
+"Favorites" = "Избранное";
+
+// H
+"Home Page" = "Сайт";
+
+// I
+"INTERNAL APP ERROR" = "ВНУТРЕННЯЯ ОШИБКА";
+"It is unknown whether the network is reachable" = "Доступность сети неизвестна";
+
+// O
+"OK" = "ДА";
+
+// R
+"Rate" = "По рейтингу";
+"Release date" = "По дате";
+
+// S
+"Search" = "Поиск";
+"SELECT APPLICATION THEME" = "ВЫБОР ТЕМЫ ПРИЛОЖЕНИЯ";
+"SELECT MOVIE GENRE" = "ВЫБОР ЖАНРА ФИЛЬМОВ";
+"Settings" = "Установки";
+"Something went wrong! Please contact support." = "Что-то пошло не так! Пожалуйста обратитесь в службу поддержки.";
+"Something went wrong! Please try again later." = "Что-то пошло не так! Пожалуйста попробуйте повторить попытку позже.";
+
+// T
+"The movie has added" = "Фильм добавлен";
+"The movie has removed" = "Фильм удален";
+"The network is not reachable" = "Сеть недоступна";
+"The network is reachable over the WiFi connection" = "Сеть доступна через WiFi подключение";
+"The network is reachable over the cellular connection" = "Сеть доступна через сотовое подключение";
+"Title" = "По имени";

@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  FilmTest
+
+  Created by Kirill Mazaev on 01.07.2019.
+  Copyright © 2019 mazaev. All rights reserved.
+*/
+
+// Base - English
+
+// A
+"Actors" = "Actors";
+"API REQUEST ERROR" = "API REQUEST ERROR";
+
+// F
+"Favorites" = "Favorites";
+
+// H
+"Home Page" = "Home Page";
+
+// I
+"INTERNAL APP ERROR" = "INTERNAL APP ERROR";
+"It is unknown whether the network is reachable" = "It is unknown whether the network is reachable";
+
+// O
+"OK" = "OK";
+
+// R
+"Rate" = "Rate";
+"Release date" = "Release date";
+
+// S
+"Search" = "Search";
+"SELECT APPLICATION THEME" = "SELECT APPLICATION THEME";
+"SELECT MOVIE GENRE" = "SELECT MOVIE GENRE";
+"Settings" = "Settings";
+"Something went wrong! Please contact support." = "Something went wrong! Please contact support.";
+"Something went wrong! Please try again later." = "Something went wrong! Please try again later.";
+
+// T
+"The movie has added" = "The movie has added";
+"The movie has removed" = "The movie has removed";
+"The network is not reachable" = "The network is not reachable";
+"The network is reachable over the WiFi connection" = "The network is reachable over the WiFi connection";
+"The network is reachable over the cellular connection" = "The network is reachable over the cellular connection";
+"Title" = "Title";

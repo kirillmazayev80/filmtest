@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Cci-fx-zc1"; */
+"Cci-fx-zc1.text" = "Title";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "Eva-mP-BBQ"; */
+"Eva-mP-BBQ.text" = "Description";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "kZk-va-6Lj"; */
+"kZk-va-6Lj.title" = "Поиск";

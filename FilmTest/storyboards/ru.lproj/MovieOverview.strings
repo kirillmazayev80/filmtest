@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Votes"; ObjectID = "14h-zj-mD8"; */
+"14h-zj-mD8.text" = "Votes";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "1nI-QL-2b7"; */
+"1nI-QL-2b7.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIViewController"; title = "Overview"; ObjectID = "dZV-Bl-njf"; */
+"dZV-Bl-njf.title" = "Описание";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "fHc-Ck-fFy"; */
+"fHc-Ck-fFy.text" = "Date";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "jQ9-RF-zq2"; */
+"jQ9-RF-zq2.text" = "Language";
+
+/* Class = "UILabel"; text = "Popularity"; ObjectID = "sOb-zB-h4l"; */
+"sOb-zB-h4l.text" = "Popularity";
+
+/* Class = "UILabel"; text = "Budget"; ObjectID = "v1Z-dA-LGV"; */
+"v1Z-dA-LGV.text" = "Budget";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "xwe-fM-x2d"; */
+"xwe-fM-x2d.text" = "Title";

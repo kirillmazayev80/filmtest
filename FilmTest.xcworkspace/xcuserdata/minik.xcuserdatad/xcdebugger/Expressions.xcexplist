@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in SelectThemeSettingsVC.bindViewModel():SelectThemeSettingsVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UserDefaults.standard.string(forKey: ID.APP_THEME)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FavoritesMoviesVC.bindViewModel():FavoritesMoviesVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FavoritesViewModel.fetchMovies():FavoritesViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.movies">
+            </PersistentString>
+            <PersistentString
+               value = "self.movies.array">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SearchViewModel.isLoadingIndexPath(_:):SearchViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.movies.count">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SearchMoviesManager.executeRequest(by:from:completion:):SearchMoviesManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FetchMoviesManager.handleResponse(response:):FetchMoviesManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in OverviewMovieVC.zoomImageToFullScreen():OverviewMovieVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "backdropImg.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.backdropImg.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SearchMoviesManager.handleResponse(response:):SearchMoviesManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FavoritesViewModel.insertSortedMovies(sorted:):FavoritesViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movies">
+            </PersistentString>
+            <PersistentString
+               value = "self.movies.collection">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

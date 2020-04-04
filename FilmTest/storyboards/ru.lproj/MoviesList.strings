@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "2Dy-aJ-nHX"; */
+"2Dy-aJ-nHX.text" = "Description";
+
+/* Class = "UINavigationItem"; title = "Movies"; ObjectID = "CpN-Gk-NEp"; */
+"CpN-Gk-NEp.title" = "Фильмы";
+
+/* Class = "UISegmentedControl"; XIU-KB-K0K.segmentTitles[0] = "Most Viewed"; ObjectID = "XIU-KB-K0K"; */
+"XIU-KB-K0K.segmentTitles[0]" = "Популярные";
+
+/* Class = "UISegmentedControl"; XIU-KB-K0K.segmentTitles[1] = "By Genre"; ObjectID = "XIU-KB-K0K"; */
+"XIU-KB-K0K.segmentTitles[1]" = "По жанру";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "dJt-AG-5X6"; */
+"dJt-AG-5X6.text" = "Title";

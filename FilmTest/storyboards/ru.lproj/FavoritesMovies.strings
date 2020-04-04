@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "It0-jF-4cP"; */
+"It0-jF-4cP.title" = "Избранное";
+
+/* Class = "UISegmentedControl"; Z7i-Z9-FRQ.segmentTitles[0] = "Title"; ObjectID = "Z7i-Z9-FRQ"; */
+"Z7i-Z9-FRQ.segmentTitles[0]" = "По имени";
+
+/* Class = "UISegmentedControl"; Z7i-Z9-FRQ.segmentTitles[1] = "Release date"; ObjectID = "Z7i-Z9-FRQ"; */
+"Z7i-Z9-FRQ.segmentTitles[1]" = "По дате";
+
+/* Class = "UISegmentedControl"; Z7i-Z9-FRQ.segmentTitles[2] = "Rate"; ObjectID = "Z7i-Z9-FRQ"; */
+"Z7i-Z9-FRQ.segmentTitles[2]" = "По рейтингу";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ZwF-K5-TdU"; */
+"ZwF-K5-TdU.text" = "Title";

@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (5.0.5)
+  - Bond (7.6.5):
+    - Differ (~> 1.4)
+    - ReactiveKit (~> 3.14)
+  - Differ (1.4.0)
+  - Floaty (4.2.0)
+  - ReactiveKit (3.14.0)
+  - Realm (4.2.0):
+    - Realm/Headers (= 4.2.0)
+  - Realm/Headers (4.2.0)
+  - RealmSwift (4.2.0):
+    - Realm (= 4.2.0)
+  - SDWebImage (5.4.0):
+    - SDWebImage/Core (= 5.4.0)
+  - SDWebImage/Core (5.4.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5)
+  - Bond (~> 7.6.0)
+  - Differ (= 1.4)
+  - Floaty
+  - ReactiveKit (= 3.14)
+  - Realm
+  - RealmSwift
+  - SDWebImage
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Bond
+    - Differ
+    - Floaty
+    - ReactiveKit
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  Bond: 8316a2ac57de2389bc0c2d7272cd9b685aef57d6
+  Differ: e08c6e244b4c9fb25f97f72f31555690b1dfd99c
+  Floaty: e2bd5a0f6f7f70899e26ff2da31081c8bee8d1b0
+  ReactiveKit: bee31957333d98c5b443609fe099ebccdf055d15
+  Realm: 24f62307291e35ca9ba69f4d5e7214142543b12d
+  RealmSwift: eec89a12ff5ff09f365519c64591ab297acbbb40
+  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: ce8e391227057e26c3ac250f15fe82e29172c9ad
+
+COCOAPODS: 1.9.1

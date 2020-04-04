@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "FEz-ea-ZTB"; */
+"FEz-ea-ZTB.text" = "Title";
+
+/* Class = "UIViewController"; title = "Genres"; ObjectID = "MMg-qN-3he"; */
+"MMg-qN-3he.title" = "Жанры";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ndT-zr-AMU"; */
+"ndT-zr-AMU.text" = "Title";
+
+/* Class = "UITableViewController"; title = "Settings"; ObjectID = "wUR-Wm-5Aw"; */
+"wUR-Wm-5Aw.title" = "Установки";
+
+/* Class = "UIViewController"; title = "Themes"; ObjectID = "z1X-2O-RUS"; */
+"z1X-2O-RUS.title" = "Темы";

@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "1P8-LF-827"; */
+"1P8-LF-827.text" = "Name";
+
+/* Class = "UIViewController"; title = "Actors"; ObjectID = "F63-ev-S4B"; */
+"F63-ev-S4B.title" = "Актеры";
+
+/* Class = "UILabel"; text = "Homepage"; ObjectID = "In1-g0-2yv"; */
+"In1-g0-2yv.text" = "Homepage";
+
+/* Class = "UILabel"; text = "John Appleseed"; ObjectID = "Nst-MU-fs5"; */
+"Nst-MU-fs5.text" = "John Appleseed";
+
+/* Class = "UILabel"; text = "Popularity"; ObjectID = "XQS-D8-NlL"; */
+"XQS-D8-NlL.text" = "Popularity";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "bI2-C9-Uxl"; */
+"bI2-C9-Uxl.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Birth place"; ObjectID = "dPf-A1-mtx"; */
+"dPf-A1-mtx.text" = "Birth place";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "xUC-bn-ud9"; */
+"xUC-bn-ud9.text" = "Birthday";

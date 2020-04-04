@@ -1,0 +1,6 @@
+module Pods_FilmTest {
+  umbrella header "Pods-FilmTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
