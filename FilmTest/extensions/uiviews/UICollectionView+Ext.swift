@@ -15,7 +15,7 @@ extension UICollectionView {
     // returns number of selected cell
     var selectedRow: Signal<Int, Never> {
         return reactive.delegate.signal(for: #selector(UICollectionViewDelegate.collectionView(_:didSelectItemAt:)))
-        { (subject: PassthroughSubject<Int, Never>, indexPath: IndexPath) in
+        { (subject: PassthroughSubject<Int, Never>, _: UICollectionView, indexPath: IndexPath) in
             subject.send(indexPath.row)
         }
     }
